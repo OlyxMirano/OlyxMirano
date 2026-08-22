@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6b0785f1-d9e9-4067-a253-9be66698a350.jpeg?v=1787420493)](https://www.boot.dev/certificates/6b0785f1-d9e9-4067-a253-9be66698a350)
 <!--
 **OlyxMirano/OlyxMirano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
