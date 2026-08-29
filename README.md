@@ -2,6 +2,8 @@
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6b0785f1-d9e9-4067-a253-9be66698a350.jpeg?v=1787420493)](https://www.boot.dev/certificates/6b0785f1-d9e9-4067-a253-9be66698a350)
 
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/1da044f7-6c9f-447f-8404-5b81af45da5e.jpeg?v=1787911708)](https://www.boot.dev/certificates/1da044f7-6c9f-447f-8404-5b81af45da5e)
+
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bad6b5f6-7ef7-4e26-a412-390c9698183b.jpeg?v=1788006397)](https://www.boot.dev/certificates/bad6b5f6-7ef7-4e26-a412-390c9698183b)
 <!--
 **OlyxMirano/OlyxMirano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
